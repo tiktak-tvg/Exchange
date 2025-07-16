@@ -7,3 +7,5 @@
 Если ваш IP-адрес изменился из-за смены интернет-провайдера, вам нужно будет обновить только запись A.<br> 
 
 <img width="753" height="267" alt="image" src="https://github.com/user-attachments/assets/28888ee8-0ee5-4bff-8358-4f3287faf2f4" />
+
+<img width="669" height="861" alt="image" src="https://github.com/user-attachments/assets/966f0a79-50cc-49bd-a1cc-ed9e7d9013e3" />
