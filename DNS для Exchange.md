@@ -28,14 +28,18 @@
 Параметр `-Server` разрешит имя на DNS-серверах Google.<br>  
 Мы можем проверить публичные DNS-записи в локальной сети (LAN) или любой внешней сети.
 
-<img width="679" height="160" alt="image" src="https://github.com/user-attachments/assets/c5adb407-4e33-4f2d-919c-0ea5cea73c39" />
-
 ##### Проверьте запись MX.
+
+<img width="679" height="160" alt="image" src="https://github.com/user-attachments/assets/c5adb407-4e33-4f2d-919c-0ea5cea73c39" />
 
 ##### Проверить запись А.
 Давайте посмотрим на публичную запись А.
 
+<img width="678" height="113" alt="image" src="https://github.com/user-attachments/assets/d61ffe23-ae25-4e0c-a744-0c7b5d0fa278" />
+
 ##### Проверьте запись автообнаружения.
 Напоследок давайте проверим публичную запись автообнаружения.
+
+<img width="678" height="107" alt="image" src="https://github.com/user-attachments/assets/74b75f6d-2ff0-4d92-bdd5-db4417ae2ef4" />
 
 
